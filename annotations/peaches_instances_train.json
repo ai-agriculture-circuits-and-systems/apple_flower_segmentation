@@ -1,0 +1,324 @@
+{
+  "info": {
+    "year": 2017,
+    "version": "1.0.0",
+    "description": "Apple Flower Segmentation peaches train split",
+    "url": "https://agdatacommons.nal.usda.gov/download/articles/24852636/versions/1/"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "peaches/images/12.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 2,
+      "file_name": "peaches/images/14.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3,
+      "file_name": "peaches/images/22.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 4,
+      "file_name": "peaches/images/24.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 5,
+      "file_name": "peaches/images/30.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 6,
+      "file_name": "peaches/images/34.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 7,
+      "file_name": "peaches/images/36.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 8,
+      "file_name": "peaches/images/4.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 9,
+      "file_name": "peaches/images/40.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 10,
+      "file_name": "peaches/images/41.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 11,
+      "file_name": "peaches/images/44.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 12,
+      "file_name": "peaches/images/54.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 13,
+      "file_name": "peaches/images/58.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 14,
+      "file_name": "peaches/images/6.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 15,
+      "file_name": "peaches/images/68.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 16,
+      "file_name": "peaches/images/8.bmp",
+      "width": 2704,
+      "height": 1520
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        45.0,
+        127.0,
+        2659.0,
+        1329.0
+      ],
+      "area": 3533811.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        129.0,
+        2112.0,
+        1391.0
+      ],
+      "area": 2937792.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        667.0,
+        199.0,
+        2037.0,
+        1321.0
+      ],
+      "area": 2690877.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        195.0,
+        443.0,
+        2509.0,
+        1068.0
+      ],
+      "area": 2679612.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        15.0,
+        0.0,
+        1964.0,
+        1504.0
+      ],
+      "area": 2953856.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        129.0,
+        28.0,
+        1900.0,
+        1486.0
+      ],
+      "area": 2823400.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        85.0,
+        2000.0,
+        1435.0
+      ],
+      "area": 2870000.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        2704.0,
+        784.0
+      ],
+      "area": 2119936.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        18.0,
+        2681.0,
+        1490.0
+      ],
+      "area": 3994690.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        456.0,
+        0.0,
+        2248.0,
+        1520.0
+      ],
+      "area": 3416960.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        744.0,
+        0.0,
+        1735.0,
+        1133.0
+      ],
+      "area": 1965755.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        824.0,
+        360.0,
+        1868.0,
+        919.0
+      ],
+      "area": 1716692.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 1,
+      "bbox": [
+        55.0,
+        80.0,
+        2245.0,
+        1440.0
+      ],
+      "area": 3232800.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        2704.0,
+        1520.0
+      ],
+      "area": 4110080.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 1,
+      "bbox": [
+        162.0,
+        0.0,
+        2383.0,
+        1426.0
+      ],
+      "area": 3398158.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        48.0,
+        2449.0,
+        1438.0
+      ],
+      "area": 3521662.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "peache",
+      "supercategory": "flower"
+    }
+  ],
+  "licenses": []
+}

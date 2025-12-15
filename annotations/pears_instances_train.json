@@ -1,0 +1,248 @@
+{
+  "info": {
+    "year": 2017,
+    "version": "1.0.0",
+    "description": "Apple Flower Segmentation pears train split",
+    "url": "https://agdatacommons.nal.usda.gov/download/articles/24852636/versions/1/"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "pears/images/1_101.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 2,
+      "file_name": "pears/images/1_25.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3,
+      "file_name": "pears/images/1_31.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 4,
+      "file_name": "pears/images/1_33.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 5,
+      "file_name": "pears/images/1_43.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 6,
+      "file_name": "pears/images/1_66.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 7,
+      "file_name": "pears/images/1_71.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 8,
+      "file_name": "pears/images/2_14.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 9,
+      "file_name": "pears/images/2_24.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 10,
+      "file_name": "pears/images/2_28.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 11,
+      "file_name": "pears/images/2_37.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 12,
+      "file_name": "pears/images/2_47.bmp",
+      "width": 2704,
+      "height": 1520
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        439.0,
+        0.0,
+        1917.0,
+        1374.0
+      ],
+      "area": 2633958.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        8.0,
+        2.0,
+        2696.0,
+        1518.0
+      ],
+      "area": 4092528.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        42.0,
+        0.0,
+        2588.0,
+        1520.0
+      ],
+      "area": 3933760.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 1,
+      "bbox": [
+        1077.0,
+        0.0,
+        1627.0,
+        1004.0
+      ],
+      "area": 1633508.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 1,
+      "bbox": [
+        29.0,
+        0.0,
+        2675.0,
+        1178.0
+      ],
+      "area": 3151150.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        149.0,
+        2032.0,
+        1228.0
+      ],
+      "area": 2495296.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        6.0,
+        1462.0,
+        1459.0
+      ],
+      "area": 2133058.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        212.0,
+        2704.0,
+        1308.0
+      ],
+      "area": 3536832.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 1,
+      "bbox": [
+        121.0,
+        0.0,
+        2583.0,
+        1520.0
+      ],
+      "area": 3926160.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 1,
+      "bbox": [
+        228.0,
+        22.0,
+        1894.0,
+        1498.0
+      ],
+      "area": 2837212.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 1,
+      "bbox": [
+        88.0,
+        0.0,
+        2051.0,
+        1438.0
+      ],
+      "area": 2949338.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 1,
+      "bbox": [
+        686.0,
+        0.0,
+        2018.0,
+        1172.0
+      ],
+      "area": 2365096.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "pear",
+      "supercategory": "flower"
+    }
+  ],
+  "licenses": []
+}

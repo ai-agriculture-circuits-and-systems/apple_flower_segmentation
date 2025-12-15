@@ -1,0 +1,58 @@
+{
+  "info": {
+    "year": 2017,
+    "version": "1.0.0",
+    "description": "Apple Flower Segmentation pears val split",
+    "url": "https://agdatacommons.nal.usda.gov/download/articles/24852636/versions/1/"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "pears/images/1_103.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 2,
+      "file_name": "pears/images/2_32.bmp",
+      "width": 2704,
+      "height": 1520
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        1204.0,
+        269.0,
+        1500.0,
+        991.0
+      ],
+      "area": 1486500.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        2704.0,
+        1427.0
+      ],
+      "area": 3858608.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "pear",
+      "supercategory": "flower"
+    }
+  ],
+  "licenses": []
+}

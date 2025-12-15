@@ -1,0 +1,77 @@
+{
+  "info": {
+    "year": 2017,
+    "version": "1.0.0",
+    "description": "Apple Flower Segmentation peaches val split",
+    "url": "https://agdatacommons.nal.usda.gov/download/articles/24852636/versions/1/"
+  },
+  "images": [
+    {
+      "id": 1,
+      "file_name": "peaches/images/18.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 2,
+      "file_name": "peaches/images/64.bmp",
+      "width": 2704,
+      "height": 1520
+    },
+    {
+      "id": 3,
+      "file_name": "peaches/images/70.bmp",
+      "width": 2704,
+      "height": 1520
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "bbox": [
+        0.0,
+        0.0,
+        2594.0,
+        1444.0
+      ],
+      "area": 3745736.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 1,
+      "bbox": [
+        124.0,
+        0.0,
+        1972.0,
+        1331.0
+      ],
+      "area": 2624732.0,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 1,
+      "bbox": [
+        86.0,
+        320.0,
+        1519.0,
+        1168.0
+      ],
+      "area": 1774192.0,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "peache",
+      "supercategory": "flower"
+    }
+  ],
+  "licenses": []
+}
