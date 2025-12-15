@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5375508491,
+      "width": 5184,
+      "height": 3456,
+      "file_name": "IMG_0266.JPG",
+      "size": 7051570,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6250986491,
+      "image_id": 5375508491,
+      "category_id": 1,
+      "bbox": [
+        0,
+        0,
+        5184,
+        3456
+      ],
+      "area": 17915904,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "APPLEA",
+      "supercategory": "APPLEA"
+    }
+  ]
+}

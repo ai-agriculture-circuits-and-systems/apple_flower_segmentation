@@ -1,0 +1,48 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4668136823,
+      "width": 2704,
+      "height": 1520,
+      "file_name": "48.bmp",
+      "size": 12330294,
+      "format": "BMP",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4903402823,
+      "image_id": 4668136823,
+      "category_id": 1,
+      "bbox": [
+        216,
+        0,
+        2488,
+        1520
+      ],
+      "area": 3781760,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "APPLE",
+      "supercategory": "APPLE"
+    }
+  ]
+}
